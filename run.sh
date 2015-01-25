@@ -1,0 +1,1 @@
+FLICK_API_KEY='enter your api key' FLICK_SECRET='enter secret key' ruby my_script.rb
